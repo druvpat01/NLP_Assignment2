@@ -24,6 +24,6 @@
 | Amey Rangari     | 21110177 |                                  |
 | Netram Choudhary | 21110138 | Contributed in training the tokenizer. |
 | Vinay Goud       | 21110125 |                                  |
-| Dhruv Patel      | 23210035 |                                  |
+| Dhruv Patel      | 23210035 | Contributed in training the model.     |
 
 
