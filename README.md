@@ -14,3 +14,16 @@
 
 ##  Model Training
 
+
+
+### Individual Contributions of Group 
+
+| Name             | Roll No. | Contribution                     |
+|------------------|----------|----------------------------------|
+| Husain Malwat    | 21110117 |                                  |
+| Amey Rangari     | 21110177 |                                  |
+| Netram Choudhary | 21110138 | Contributed in training the tokenizer. |
+| Vinay Goud       | 21110125 |                                  |
+| Dhruv Patel      | 23210035 |                                  |
+
+
